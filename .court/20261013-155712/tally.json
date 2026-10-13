@@ -1,0 +1,92 @@
+{
+  "verdict": "GUILTY",
+  "guilty": 12,
+  "not_guilty": 0,
+  "no_vote": 0,
+  "jurors": [
+    {
+      "juror": "The Accountant",
+      "vote": "GUILTY",
+      "reason": "I can't sign off on giving up a paycheck when nobody can tell me the price, the margin, the monthly burn or the salary being lost, so there is no way to know whether $8,000 covers two months or twelve.",
+      "fact": "The record gives $8,000 in savings but \"no information on prices, margins, monthly costs, time period of the 40 sales, repeat customers, or current salary,\" and the defense concedes it \"cannot show that the business will cover the user's living costs, or how long $8,000 will last.\"",
+      "flip": "The case showed monthly net profit from the candle sales, over a stated period, that covers the user's monthly living costs, with $8,000 left as a buffer of several months on top."
+    },
+    {
+      "juror": "The First-Time Customer",
+      "vote": "GUILTY",
+      "reason": "If someone pitched me \"quit your job for 40 candle orders,\" I wouldn't buy that plan this week: I can't tell what a candle costs, what it earns, or how many months $8,000 lasts, so I'd keep my paycheck and keep selling on the side.",
+      "fact": "The record gives no time period, prices, margins or monthly costs for the \"Sales so far: 40 orders\" and \"$8,000\" figures, and the defense concedes it \"cannot show that the business will cover the user's living costs, or how long $8,000 will last.\"",
+      "flip": "The record showed that recent monthly candle profit, at a stated price and margin, already roughly covers monthly living costs, with $8,000 covering several months of any shortfall."
+    },
+    {
+      "juror": "The Competitor",
+      "vote": "GUILTY",
+      "reason": "As the candle shop already on Etsy, I would just ignore this: 40 orders with no stated time period, price or repeat buyers isn't a business I have to worry about, and someone burning an $8,000 cushion of unknown length with no shown edge over shops like mine is exactly the competitor who runs out of cash before I ever have to respond.",
+      "fact": "The record gives only \"Sales so far: 40 orders\" and admits there is no information on prices, margins, monthly costs, or the time period of those sales.",
+      "flip": "The case showed a monthly sales rate with margins and repeat customers that, set against stated monthly costs, already covers living expenses before the job is quit."
+    },
+    {
+      "juror": "The Retired Judge",
+      "vote": "GUILTY",
+      "reason": "A plan to give up a salary carries the burden of showing it can replace that salary, and this record offers only 40 orders of unknown timing and margin and $8,000 of unknown runway, which is hope dressed up as fact, not proof.",
+      "fact": "The defense conceded that without prices, margins, monthly costs, the time period of the 40 orders, or current salary, it \"cannot show that the business will cover the user's living costs, or how long $8,000 will last.\"",
+      "flip": "The record showed monthly living and business costs alongside per-order profit and the time period of the 40 orders, and the arithmetic showed current sales (or a documented growth rate) covering those costs before the $8,000 runs out."
+    },
+    {
+      "juror": "The Teenager",
+      "vote": "GUILTY",
+      "reason": "Forty orders with no idea if that took a month or three years is a side hustle, not a job, and quitting over it is like dropping out because your TikTok got a few likes.",
+      "fact": "The record gives no time period, prices, or margins for the 40 orders, and the defense admits it cannot show the shop will cover living costs.",
+      "flip": "The record showed the 40 orders came in a short recent window with repeat buyers and enough profit per sale that monthly earnings already come close to covering living costs."
+    },
+    {
+      "juror": "The Engineer",
+      "vote": "GUILTY",
+      "reason": "I would not take a system live without load numbers, and this plan cuts the only stable power supply (the salary) before anyone knows the throughput (orders per month), the margin per unit, or the burn rate that the $8,000 has to cover.",
+      "fact": "The record gives no time period, prices, margins or monthly costs for the 40 orders and $8,000, and the defense concedes it \"cannot show that the business will cover the user's living costs, or how long $8,000 will last.\"",
+      "flip": "The case showed a recent monthly order rate and per-candle margin whose profit, plus the $8,000 spread over the user's stated monthly costs, covers living expenses for a defined runway of several months."
+    },
+    {
+      "juror": "The Small-Business Owner",
+      "vote": "GUILTY",
+      "reason": "Twenty years behind a counter taught me that a slow month gets paid out of cash, and this plan stops the paycheck without knowing what a month costs or what a candle earns, so nobody can tell me how many months $8,000 actually buys.",
+      "fact": "The record gives no monthly costs, prices or margins, and no time period for the 40 orders, so the $8,000 cushion's runway cannot be worked out, and the defense concedes it cannot show the business will cover living costs.",
+      "flip": "The case showed monthly living and business costs alongside the price, margin and time period of the 40 orders, and the numbers showed the $8,000 covers the gap until candle profit pays those monthly costs, slow months included."
+    },
+    {
+      "juror": "The Statistician",
+      "vote": "GUILTY",
+      "reason": "Forty orders over an unknown period is too small and undated a sample to estimate any sales rate, and the record gives no base rate or track record suggesting this shop beats the odds, so quitting a known income on this evidence is a bet, not a plan.",
+      "fact": "The only sales evidence is \"Sales so far: 40 orders,\" with no time period, price or margin, so no monthly income can be worked out from it.",
+      "flip": "The record showed a steady sales rate over several months with known margins, giving monthly profit that, with the $8,000, covers stated monthly living and business costs."
+    },
+    {
+      "juror": "The Parent",
+      "vote": "GUILTY",
+      "reason": "As a parent I would not let anyone in my family give up a paycheck on $8,000 of savings and 40 orders when nobody, not even the defense, can say how many months that money buys or whether the candles turn a profit.",
+      "fact": "The record gives no monthly costs, prices, margins or current salary, and the defense concedes it \"cannot show that the business will cover the user's living costs, or how long $8,000 will last.\"",
+      "flip": "The record showed monthly living and business costs alongside per-order profit and sales rate, proving the shop already covers those costs or that $8,000 covers a realistic ramp-up period."
+    },
+    {
+      "juror": "The Investor",
+      "vote": "GUILTY",
+      "reason": "I would not put my own money into a plan that gives up a known salary for a business where I can't see the price, the margin, the monthly burn, or how long it took to get the sales, because I can't measure either the upside or how much I could lose.",
+      "fact": "The defense concedes the record has no prices, margins, monthly costs, time period for the 40 orders, or current salary, so nobody can work out how long the $8,000 lasts or whether 40 orders could ever replace an income.",
+      "flip": "The case showed the 40 orders came in a recent short period at a margin that, scaled to full time, covers the user's stated monthly costs within the months the $8,000 can pay for."
+    },
+    {
+      "juror": "The Designer",
+      "vote": "GUILTY",
+      "reason": "A stranger reading this plan in five seconds sees \"quit job, sell candles, $8,000, 40 orders\" and cannot tell whether that is a living or a hobby, because the one number that would make it clear (what a month of sales earns against what a month of life costs) is missing.",
+      "fact": "The record gives no prices, margins, monthly costs, or time period for the 40 orders, and the defense concedes it \"cannot show that the business will cover the user's living costs, or how long $8,000 will last.\"",
+      "flip": "The case stated, in one line, monthly candle profit and monthly living costs showing the $8,000 covers the gap long enough for the shop to pay its own way."
+    },
+    {
+      "juror": "The Lawyer",
+      "vote": "GUILTY",
+      "reason": "Selling candles is selling a product that can start a fire, and a plan to make that your only income should cover more than just quitting. The record says nothing about liability insurance, business registration, tax obligations, or what happens to employer benefits after leaving the job, and with no monthly costs given, nobody can tell whether $8,000 could absorb one claim or one tax bill.",
+      "fact": "The case file says \"Nothing else was provided (no information on prices, margins, monthly costs, ... or current salary)\", so the whole plan rests on 40 orders and $8,000, with no costs worked out and no protection against liability.",
+      "flip": "The case showed monthly costs that $8,000 covers for a stated number of months, along with product liability coverage and the shop set up as a registered, tax-compliant business before the user quits."
+    }
+  ]
+}

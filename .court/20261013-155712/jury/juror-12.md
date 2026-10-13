@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: Selling candles is selling a product that can start a fire, and a plan to make that your only income should cover more than just quitting. The record says nothing about liability insurance, business registration, tax obligations, or what happens to employer benefits after leaving the job, and with no monthly costs given, nobody can tell whether $8,000 could absorb one claim or one tax bill.
+DECIDING FACT: The case file says "Nothing else was provided (no information on prices, margins, monthly costs, ... or current salary)", so the whole plan rests on 40 orders and $8,000, with no costs worked out and no protection against liability.
+WOULD FLIP IF: The case showed monthly costs that $8,000 covers for a stated number of months, along with product liability coverage and the shop set up as a registered, tax-compliant business before the user quits.
